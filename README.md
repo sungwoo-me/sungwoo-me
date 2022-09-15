@@ -1,10 +1,12 @@
+<div align= "center">
+    ## 👯 My BAEKJOON Online Judge 👯
+    [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=awhtjddn1)](https://solved.ac/awhtjddn1/)
+</div>
 
-## 👯 My BAEKJOON Online Judge 👯
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=awhtjddn1)](https://solved.ac/awhtjddn1/)
-
-## 👩‍💻 My Github Stats 👩‍💻
-![sungwoo-me github stats](https://github-readme-stats.vercel.app/api?username=sungwoo-me&show_icons=true)
-
+<div align= "center">
+    ## 👩‍💻 My Github Stats 👩‍💻
+    ![sungwoo-me github stats](https://github-readme-stats.vercel.app/api?username=sungwoo-me&show_icons=true)
+</div>
 
 <!-- ## My Language Stats -->
 <!-- 
