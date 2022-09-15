@@ -1,10 +1,16 @@
+### Hi im sungwoo
+
+## Baekjoon online 
+
 <div align="center">
-    <h2> ## 👯 My BAEKJOON Online Judge 👯 </h2>
+    <h2> 👯 My BAEKJOON Online Judge 👯 </h2>
     [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=awhtjddn1)](https://solved.ac/awhtjddn1/)
 </div>
 
+## github
+
 <div align= "center">
-    <h2>## 👩‍💻 My Github Stats 👩‍💻</h2>
+    <h2> 👩‍💻 My Github Stats 👩‍💻</h2>
     ![sungwoo-me github stats](https://github-readme-stats.vercel.app/api?username=sungwoo-me&show_icons=true)
 </div>
 
