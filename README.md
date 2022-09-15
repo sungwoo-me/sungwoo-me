@@ -4,7 +4,9 @@
 
 <div align="center">
     <h2> 👯 My BAEKJOON Online Judge 👯 </h2>
-    [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=awhtjddn1)](https://solved.ac/awhtjddn1/)
+    <div>
+        [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=awhtjddn1)](https://solved.ac/awhtjddn1/)
+    </div>
 </div>
 
 <!-- ## github -->
