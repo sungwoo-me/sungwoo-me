@@ -10,6 +10,8 @@
   
 </div> 
 
+<!-- ## github -->
+
 <div align = center>
   
   <h2> 👩‍💻 My Github Stats 👩‍💻</h2>
@@ -17,16 +19,6 @@
   ![sungwoo-me github stats](https://github-readme-stats.vercel.app/api?username=sungwoo-me&show_icons=true)
   
 </div>
-</div>
-
-
-<!-- ## github -->
-
-<div align= "center">
-    <h2> 👩‍💻 My Github Stats 👩‍💻</h2>
-    ![sungwoo-me github stats](https://github-readme-stats.vercel.app/api?username=sungwoo-me&show_icons=true)
-</div>
-
 
 <!-- ## My Language Stats -->
 <!-- 
