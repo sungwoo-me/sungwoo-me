@@ -15,12 +15,6 @@
 </div>
 -->
 
-<div align = center>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSim-mi-gyeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
 <!-- 
 <div align="center">
     <p class="has-line-data" data-line-start="7" data-line-end="9"><img height="160px" src="https://github-readme-stats.vercel.app/api?username=Sim-mi-gyeong&amp;show_icons=true&amp;theme=material-palenight" alt="Sim-mi-gyeong's GitHub stats" /><img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sim-mi-gyeong&theme=material-palenight&ring=7E6BC4&currStreakLabel=7E6BC4&fire=C79ECF" /></a></p>
