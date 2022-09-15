@@ -4,7 +4,7 @@
 
 <div align = center>
   
-    <h2> 👯 My BAEKJOON Online Judge 👯 </h2>
+  <h2> 👯 My BAEKJOON Online Judge 👯 </h2>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=awhtjddn1)](https://solved.ac/awhtjddn1/)
   
