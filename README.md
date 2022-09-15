@@ -10,6 +10,16 @@
   
 </div> 
 
+<div align = center>
+  
+  <h2> 👩‍💻 My Github Stats 👩‍💻</h2>
+  
+  ![sungwoo-me github stats](https://github-readme-stats.vercel.app/api?username=sungwoo-me&show_icons=true)
+  
+</div>
+</div>
+
+
 <!-- ## github -->
 
 <div align= "center">
@@ -22,7 +32,7 @@
 <!-- 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwoo-me&theme=cobalt&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sim-mi-gyeong&show_icons=true&theme=radical)
 
 </div>
 -->
