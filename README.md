@@ -1,10 +1,10 @@
-<div align= "center">
-    ## 👯 My BAEKJOON Online Judge 👯
+<div align="center">
+    <h2> ## 👯 My BAEKJOON Online Judge 👯 </h2>
     [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=awhtjddn1)](https://solved.ac/awhtjddn1/)
 </div>
 
 <div align= "center">
-    ## 👩‍💻 My Github Stats 👩‍💻
+    <h2>## 👩‍💻 My Github Stats 👩‍💻</h2>
     ![sungwoo-me github stats](https://github-readme-stats.vercel.app/api?username=sungwoo-me&show_icons=true)
 </div>
 
@@ -25,7 +25,7 @@
  
 <!--  <div align="center">
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sim-mi-gyeong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungwoo-me&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
  </div> -->
  
